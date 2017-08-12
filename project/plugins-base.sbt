@@ -1,0 +1,5 @@
+addSbtPlugin("io.get-coursier" % "sbt-coursier" % "1.0.0-RC6")
+addSbtPlugin("com.lucidchart" % "sbt-scalafmt-coursier" % "1.10")
+addSbtPlugin("com.github.fedragon" % "sbt-todolist" % "0.6")
+addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.3.0")
+addSbtPlugin("org.wartremover" % "sbt-wartremover" % "2.0.3")

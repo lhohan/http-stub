@@ -1,0 +1,18 @@
+# format:
+# key
+# value
+# separated by empty line(s), or not, always in pairs without new lines though
+# example
+#a
+#1
+#
+#b
+#2
+
+100
+{"result":"a", id="100"}
+101
+{"result":"b", id="101"}
+
+102
+{"result":"a", id="102"}
